@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ofQC5xW3ZDedG9i7j2drVst41xW34zVyYEzo3mDTChL9fp0JTRA8g26JZWCJkaAU8iKp1+Jn6eiHRkGBN0rpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd11\\Desktop\\Practicas de Unidad 3_FAOG\\Libreria_FAOG\\Libreria_FAOG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd11\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cd11\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cd11\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\cd11\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\cd11\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\cd11\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
